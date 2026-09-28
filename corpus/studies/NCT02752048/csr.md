@@ -1,0 +1,21 @@
+# Results summary for NCT02752048
+
+## Mean Change From Baseline to 24 Weeks in the 6-minute Walk Distance (6MWD)
+
+The distance the subject can walk as fast as possible in 6 minutes will be evaluated.
+
+## Mean Change From Baseline in Time to Rise From the Floor
+
+The time required for the subject to rise from a supine position on the floor as quickly as possible will be evaluated.
+
+## Mean Change From Baseline in Time to Walk/Run for 10meters
+
+The time required for the subject to run or walk as quickly as possible a 10 m-wide passage with marks affixed on the floor will be evaluated.
+
+## Mean Change From Baseline in Time to up and go (TUG)
+
+This test will assess the extent of the subject's composite mobility, including standing up, walking, repositioning the body, and balancing.
+
+## Baseline population
+
+Analysis population was per protocol set. One patients excluded from TAS-205 High dose group, and three excluded from placebo group.

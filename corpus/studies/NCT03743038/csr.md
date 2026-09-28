@@ -1,0 +1,69 @@
+# Results summary for NCT03743038
+
+## Number of Participants With 0 to 4 Investigator's Global Assessment Score at Week 6
+
+Severity of acne vulgaris was assessed by Investigator Global Assessment (IGA). The IGA score is a static evaluation of the overall severity or "average" degree of severity of a participant's disease by the Blinded Evaluator taking into account all of the participant's facial acne lesions as the participant appears on the day of the evaluation. Overall severity of acne was assessed using a five-point scale where 0=Clear, 1=Almost Clear, 2=Mild, 3=Moderate, and 4=Severe. Low score represented best outcome and higher score value indicated worst outcome.
+
+The mITT population included all randomized participants who met all Inclusion/Exclusion criteria, applied at least one dose of test article, and returned for at least one post-Baseline evaluation visit. Here, overall number of participants analyzed presents only those participants who were analyzed for this particular outcome measure, and number analyzed presents the number of participants that were analyzed at specified week.
+
+## Number of Participants Achieving Investigator's Global Assessments Treatment Success at Week 6
+
+Severity of acne vulgaris was assessed by IGA. The IGA score is a static evaluation of the overall severity or "average" degree of severity of a participant's disease by the Blinded Evaluator taking into account all of the participant's facial acne lesions as the participant appears on the day of the evaluation. Overall severity of acne was assessed using a five-point scale where 0=Clear, 1=Almost Clear, 2=Mild, 3=Moderate, and 4=Severe. The IGA treatment "success" was defined as at least a two-point improvement in IGA score relative to Baseline.
+
+The mITT population included all randomized participants who met all Inclusion/Exclusion criteria, applied at least one dose of test article, and returned for at least one post-Baseline evaluation visit. Here, overall number of participants analyzed presents only those participants who were analyzed for this particular outcome measure.
+
+## Absolute Change From Baseline to Week 6 in Inflammatory Lesion Count
+
+Inflammatory lesion count (ILC) included papules (raised inflammatory lesions with no visible purulent material) and pustules (raised inflammatory lesions with visible purulent material).
+
+The mITT population included all randomized participants who met all Inclusion/Exclusion criteria, applied at least one dose of test article, and returned for at least one post-Baseline evaluation visit. Here, overall number of participants analyzed presents only those participants who were analyzed for this particular outcome measure.
+
+## Percentage Change From Baseline to Week 6 in Inflammatory Lesion Count
+
+The ILC included papules (raised inflammatory lesions with no visible purulent material) and pustules (raised inflammatory lesions with visible purulent material).
+
+The mITT population included all randomized participants who met all Inclusion/Exclusion criteria, applied at least one dose of test article, and returned for at least one post-Baseline evaluation visit. Here, overall number of participants analyzed presents only those participants who were analyzed for this particular outcome measure.
+
+## Absolute Change From Baseline to Week 6 in Non-Inflammatory Lesion Count
+
+The non-inflammatory lesion count (NILC) included open and closed comedones.
+
+The mITT population included all randomized participants who met all Inclusion/Exclusion criteria, applied at least one dose of test article, and returned for at least one post-Baseline evaluation visit. Here, overall number of participants analyzed presents only those participants who were analyzed for this particular outcome measure.
+
+## Percentage Change From Baseline to Week 6 in Non-Inflammatory Lesion Count
+
+The NILC included open and closed comedones.
+
+The mITT population included all randomized participants who met all Inclusion/Exclusion criteria, applied at least one dose of test article, and returned for at least one post-Baseline evaluation visit. Here, overall number of participants analyzed presents only those participants who were analyzed for this particular outcome measure.
+
+## Change in Sebum Percentage Relative to Baseline Versus Weeks 2, 4, 6 and 7
+
+Sebum measurement was conducted on the right and left side of the face. The sebum measurement represented the sebum score of saturation of the film and had a range of 0 to 99, where 99 equated to very oily skin.
+
+The mITT population included all randomized participants who met all Inclusion/Exclusion criteria, applied at least one dose of test article, and returned for at least one post-Baseline evaluation visit. Here, overall number of participants analyzed presents only those participants who were analyzed for this particular outcome measure, and number analyzed presents the number of participants that were analyzed at specified week.
+
+## Change in Transepidermal Water Loss Relative to Baseline Versus Weeks 2, 4, 6 and 7
+
+Transepidermal Water Loss (TEWL) was conducted on the right and left side of the face.
+
+The mITT population included all randomized participants who met all Inclusion/Exclusion criteria, applied at least one dose of test article, and returned for at least one post-Baseline evaluation visit. Here, overall number of participants analyzed presents only those participants who were analyzed for this particular outcome measure, and number analyzed presents the number of participants that were analyzed at specified week.
+
+## Number of Participants With Treatment-emergent Adverse Events (TEAEs) and Treatment-emergent Serious Adverse Events (TESAEs)
+
+An adverse event is any untoward medical occurrence associated with the use of a drug in participants, whether or not considered drug related.
+
+Safety population included all randomized participants who received test article and applied at least one application.
+
+## Number of Participants Having Local Skin Reactions With Improved/Same Versus Worsened Severities Compared to Baseline
+
+The local skin reactions (LSRs) included erythema, edema, scaling/dryness, burning/stinging, pruritus, erosion, and pain) were assessed. Erythema, edema, scaling/dryness, and erosion were assessed by the investigator and burning/stinging, pain, and pruritus were assessed by the participant. Assessments was made using a 4-point ordinal scale where 0=absent, 1=mild (slight, barely perceptible), 2=moderate (distinct presence), and 3=severe (marked, intense). Here, lower point represented no reaction and higher points represented severe reactions.The LSRs were assessed both before and 15 minutes following test article application.
+
+Safety population included all randomized participants who received test article and applied at least one application. Here, overall number of participants analyzed presents only those participants who were analyzed for particular outcome measure, and number analyzed presents the number of participants that were analyzed at specified week.
+
+## Baseline population
+
+Modified intent-to-treat (mITT) population included all randomized participants who met all Inclusion/Exclusion criteria, applied at least one dose of test article, and returned for at least one post-Baseline evaluation visit.
+
+## Adverse events
+
+Adverse Events were only monitored/assessed on the whole participant level.

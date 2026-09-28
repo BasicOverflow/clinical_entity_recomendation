@@ -1,0 +1,27 @@
+# Results summary for NCT02374255
+
+## Number of Participants Who Perceived Increased Goals of Care Discussions
+
+Number of patient's perceptions that goals of care discussions were increased occurred as measured by GoC qualitative patient survey.
+
+Data from patient participants only. Data not collected from Oncologists
+
+## Number of Patients Perception of Improved Goals of Care Discussions
+
+Number of Patient's satisfaction with the discussion of improved goals of care as measured by GoC qualitative patient survey.
+
+Data collected for patient participants only
+
+## Communication Skills Training
+
+Oncologist's communication skills are tested and rated between 1 and 7, with higher number indicating the oncologists were more comfortable in demonstrating communication skills while having the Goals of Care discussion with their patients.
+
+Participants represented are the oncologist's. Data collected for the oncologists only.
+
+## Baseline population
+
+Data was collected for patient participants only
+
+## Adverse events
+
+Adverse events were not monitored/assessed

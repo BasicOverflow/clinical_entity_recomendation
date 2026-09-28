@@ -1,0 +1,24 @@
+{
+  "nct_id": "NCT02099721",
+  "study_title": "Improve Sudden Cardiac Arrest Study",
+  "brief_title": "Improve Sudden Cardiac Arrest Study",
+  "sponsor": "Medtronic Cardiac Rhythm and Heart Failure",
+  "study_phase": "NA",
+  "study_status": "COMPLETED",
+  "indication": "Sudden Cardiac Arrest",
+  "conditions": [
+    "Sudden Cardiac Arrest",
+    "Ventricular Arrythmia"
+  ],
+  "subject_type": "PATIENTS",
+  "healthy_volunteers": false,
+  "sex": "ALL",
+  "minimum_age": "18 Years",
+  "maximum_age": null,
+  "allocation": "NON_RANDOMIZED",
+  "blinding": "NONE",
+  "design": "PARALLEL",
+  "enrollment": 4222,
+  "comparative_study": "N",
+  "eligibility_criteria": "Inclusion Criteria:\n\n* Subject has a Class I indication for implantation of an ICD according to the American College of Cardiology (ACC)/American Heart Association(AHA)/Heart Rhythm Society (HRS) or European Society of Cardiology (ESC) Guidelines\n* Subject (or subject's legally authorized representative) is willing and able to sign and date the Patient Informed Consent Form.\n\nExclusion Criteria:\n\n* Subject is \u2264 18 years of age\n* Subject with any exclusion criteria as required by local law (e.g., age, pregnancy, breast feeding)\n* Subject is enrolled in a concurrent study that has not been approved for concurrent enrollment by the Medtronic Clinical Trial Leader\n* Subject has any contraindication for ICD/CRT-D"
+}

@@ -1,0 +1,52 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NCT02188121 
+Protocol Title: Clinical trial to reduce cardiovascular health risks in 
+patients with serious mental illness 
+Statistical Analysis Plan Date: 02/10/2018  
+Background: This trial focuses on SMI patients who are potentially eligible for cardiovascular prevention 
+therapy (through statin and angiotensin medications such as angiotensin receptor blockers or ARBs) but 
+who have not yet received it. The trial compares a prevention strategy intervention with usual care with 
+respect to use of therapy. The trial includes those on partial therapy and excludes those with detected 
+cardiovascular disease or diabetes, and assesses whether the intervention increases car diovascular 
+prevention use relative to usual care. 
+  
+Eligibility summary: Eligibility criteria include a diagnosis of schizophrenia, schizoaffective disorder, or 
+bipolar disorder; second generation antipsychotic (2GA) therapy within the past six months before trial 
+entry; and mental health care at one of the study sites at the time of trial entry. We exclude subjects who 
+already have a diagnosis of diabetes or cardiovascular disease; who already are receiving therapy with 
+both statins and angiotensin medications (i.e., the same therapeutic drug classes as used in the 
+intervention); or who have contraindications to both drug classes.  
+ 
+Primary study outcome: The main outcome is use of the cardiovascular prevention medications over the 
+12-months after study initiation. For each individual, we define the primary outcome as the proportion of 
+the 12 follow-up months during which she/he either received any of the  prescribed medication or the 
+medication became clinically contraindicated after trial entry (as decided by the treating physician).  We 
+will assess the outcome using medication counts at each study visit (i.e., at the 3 -, 6-, 9-, and 12-month 
+study visit), supplemented by subject self-reports and the clinic chart review. For subjects who are 
+eligible to receive both statins and ARB medications at baseline, we will calculate the number of days 
+that they receive both medications during the 12 months of follo w-up. For subjects who are eligible to 
+receive only one of the two medications at baseline (i.e., because of pre -existing therapy with or because 
+of contraindications to the other prevention medication before trial entry), we will calculate the number 
+of days that they receive the medication during the 12 months of follow -up, with the same approach for 
+addressing changes in subsequent eligibility.  
+ 
+Analysis of the primary study outcome: The primary analysis will follow the intention-to-treat (ITT) 
+principle. We will use regression analysis to estimate the mean average of the primary outcome in each 
+group and the difference between the mean outcomes, along with its 95% confidence interval and using 
+the p-value for a null hypothesis. If clinically meaningful imbalances are detected in baseline covariates 
+despite randomization, we will adjust for those covariates. If necessary, we will adjust for selection bias 
+due to loss to follow-up via inverse-probability weighting. In supplemental analyses to the main ITT 
+approach, we also will conduct appropriately adjusted per-protocol analyses. We will use STATA 13.0 for 
+all analyses. We also will examine a number of pre-specified subgroup analyses, in which we examine 
+whether the intervention might be more effective among those SMI patients who are more likely to 
+receive fragmented care or less likely to be adherent to complex treatment regimens , e.g., SMI patients 
+with Medicaid versus those with commercial health insurance.  
+ 

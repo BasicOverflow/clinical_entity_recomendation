@@ -5,3 +5,12 @@ networkx
 scikit-learn
 jupyter
 matplotlib
+neo4j
+python-dotenv
+pypdf
+requests
+langchain-core
+langchain-openai
+sentence-transformers
+nbclient
+ipykernel

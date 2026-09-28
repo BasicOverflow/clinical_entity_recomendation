@@ -1,0 +1,23 @@
+{
+  "nct_id": "NCT03743038",
+  "study_title": "A Randomized, Evaluator-Blinded, Bilateral Comparison Study of Two Topicals in the Treatment of Subjects With Acne Vulgaris",
+  "brief_title": "A Study Comparing Two Topicals in the Treatment of Acne Vulgaris",
+  "sponsor": "Vyne Therapeutics Inc.",
+  "study_phase": "PHASE1",
+  "study_status": "COMPLETED",
+  "indication": "Acne Vulgaris",
+  "conditions": [
+    "Acne Vulgaris"
+  ],
+  "subject_type": "PATIENTS",
+  "healthy_volunteers": false,
+  "sex": "ALL",
+  "minimum_age": "12 Years",
+  "maximum_age": "40 Years",
+  "allocation": "RANDOMIZED",
+  "blinding": "DOUBLE",
+  "design": "PARALLEL",
+  "enrollment": 12,
+  "comparative_study": "Y",
+  "eligibility_criteria": "Inclusion Criteria:\n\n* Has facial acne vulgaris with:\n\n  16 inflammatory lesions (papules, pustules) The inflammatory lesion count on the right and left side of the face should be similar IGA score of moderate (3) on both the right and left side of the face\n\nExclusion Criteria:\n\n* Acne conglobata, acne fulminans, secondary acne (chloracne, drug-induced acne), or any dermatological condition of the face or facial hair (eg, beard, sideburns, mustache) that could interfere with the clinical evaluations.\n* More than two facial nodules/cysts\n* Sunburn on the face"
+}

@@ -1,0 +1,45 @@
+# Results summary for NCT02855125
+
+## Progression-free Survival (PFS) Based on Central Independent Review
+
+Progression-free survival was defined as the time (in months) from the day of randomization to the start of radiologic disease progression or death (any cause), whichever occurred first. Response assessments were made based on Response Evaluation Criteria in Solid Tumors Version 1.1 (RECIST 1.1). As per RECIST 1.1 criteria, progressive disease (PD): At least a 20% increase in the sum of diameters of target lesions, taking as reference the smallest sum on study (this includes the baseline sum if that is the smallest on study). In addition to the relative increase of 20%, the sum must also demonstrate an absolute increase of at least 5 millimeters (mm). (Note: the appearance of one or more new lesions was also considered progressions). Participants who did not have disease progression or died were censored at the last known time that the participant was progression free.
+
+Intent-to-Treat (ITT) population included all participants randomized in the study, regardless of whether they actually received any study treatment (TAS-114 or S-1) or not.
+
+## Overall Survival (OS)
+
+OS was defined as the time from the first dose of the study treatment to death from any cause. Participants who were alive at the end of study were censored at the last date the participant was known to be alive. OS was estimated from Kaplan-Meier method.
+
+ITT population.
+
+## Overall Response Rate (ORR) Based on Central Independent Review
+
+ORR was defined as the percentage of participants with objective evidence of complete response (CR) or partial response (PR) per response evaluation criteria in solid tumors (RECIST) version 1.1. CR was defined as the disappearance of all target lesions and non-target lesions and normalization of tumor marker level. Any pathological and non-pathological lymph nodes must have reduction in short axis to less than (\<) 10 mm. PR was defined as at least a 30 percent (%) decrease in the sum of diameters of the target lesions, taking as a reference the baseline sum diameters.
+
+Tumor response (TR) population included all participants randomized in the study, regardless of whether they actually received any study treatment (TAS-114 or S-1) or not; with measurable disease (at least one target lesion) at baseline and with at least one tumor evaluation (participants who had disease progression or had a cancer related death prior to their 1st tumor evaluation were also considered evaluable).
+
+## Disease Control Rate (DCR) Based on Central Independent Review
+
+DCR was defined as the percentage of participants with objective evidence CR, PR, or stable disease (SD). Based on the central review of tumor assessments per RECIST, version 1.1. CR was defined as disappearance of all target lesions. Reduction in any pathological lymph nodes in short axis to \<10 mm. PR was defined as at least a 30% decrease in the sum of diameters of the target lesions, taking as a reference the baseline sum diameters. SD was defined as neither sufficient shrinkage to qualify for PR nor sufficient increase to qualify for PD, taking as a reference the smallest sum diameters during study.
+
+TR population.
+
+## Duration of Response (DR) Based on Central Independent Review
+
+DR was derived for participants with objective evidence of PR or CR. DR was defined as the time (in months) from the first documentation of response (CR or PR) to the first documentation of objective tumor progression or death due to any cause. Participants who were alive and progression-free as of the analysis cut-off date were censored at their last evaluable tumor response assessment before initiation of any new anticancer treatment.
+
+TR population.
+
+## Number of Participants With Treatment-emergent Adverse Events (TEAEs) and Treatment-emergent Serious Adverse Events (TESAEs)
+
+An adverse event (AE) was defined as any untoward medical condition that occurs in a participants while participating in a clinical study and does not necessarily have a causal relationship with the use of the study treatment. A serious adverse event (SAE) was defined as any untoward medical occurrence that resulted in any of the following outcomes: death, life-threatening, required initial or prolonged in-patient hospitalization, persistent or significant disability/incapacity, congenital anomaly/birth defect, or considered as medically important event. TEAEs were defined as AEs that developed or worsened during the TEAE period which was defined as the period from the time of first dose of study treatment until 30 days after last dose of study treatment. AEs included both serious and non- serious adverse events.
+
+Analysis was performed on As-Treated (AT) population which included all participants who received at least 1 dose of TAS-114 or S-1.
+
+## Baseline population
+
+Baseline population included all participants randomized in the study, regardless of whether they actually received any study treatment (TAS-114 or S-1) or not.
+
+## Adverse events
+
+Analysis was performed on As-Treated (AT) population which included all participants who received at least 1 dose of TAS-114 or S-1.

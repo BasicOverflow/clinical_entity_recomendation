@@ -147,6 +147,12 @@ activemq-data/
 # SageMath parsed files
 *.sage.py
 
+# Derived embedding cache
+corpus/cache/
+
+# Local one-off scripts (corpus download, notebook generation, notebook runner)
+scripts/
+
 # Environments
 .env
 .envrc

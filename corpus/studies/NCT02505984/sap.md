@@ -1,0 +1,20 @@
+ 
+NCT02505984 
+ 
+Preventing Postpartum Depression with Intranasal Oxytocin 
+ 
+Date of document: 12/27/2024 
+  
+Data Analysis 
+The final sample size includes 38 eligible women randomly assigned to oxytocin administration 
+(n = 18) or placebo (n = 20). Missing data were allowed such that 18.59% of the data were 
+missing, with 23 different patterns. Jamshidian and Jalal’s non-parametric Missing Completely 
+At Random (MCAR) test indicated that the data was Missing At Random (MAR): Hawkins’s test, 
+2median(6) = 14.33, pmedian = .026, and Anderson-Darlin’s rank test, Tmedian = 5.88, pmedian = .005. 
+Missing data was handled by Multiple Imputation (Rubin, 2009) with 50 complete sets. The 
+reported basic results are the pooled outcome of the MI procedure. Before the primary analyses, 
+we examined the normal distribution of all the quantitative study measures using a series of 
+Anderson-Darling normality tests. Basic analyses for study group comparison on outcome 
+measures for each time point were performed using Mann-Whitney U tests. 
+ 
+  

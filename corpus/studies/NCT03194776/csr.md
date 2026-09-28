@@ -1,0 +1,57 @@
+# Results summary for NCT03194776
+
+## Number of Participants With Adverse Events (AEs), Drug-related AEs, Serious Adverse Events (SAEs) and Deaths
+
+An AE is any untoward medical occurrence (that is, any unfavorable and unintended sign, including abnormal laboratory findings, symptom or disease) in a participant after providing written informed consent for participation in the study until the end of study visit. Therefore, an AE may or may not be temporally or causally associated with the use of a medicinal (investigational) product. An SAE is defined as any AE which is is fatal or life-threatening, results in persistent or significant disability/incapacity, constitutes a congenital anomaly/birth defect in offspring, requires inpatient hospitalization or prolongation of existing hospitalization and is is medically significant.
+
+Safety analysis set included all participants that received any study treatment.
+
+## Change From Baseline in Maximum Walking Distance (MWD) as Assessed by 6-minute Walk Test (6MWT) at Week 16
+
+MWD was assessed by the 6MWT prior to dosing was used to evaluate functional capacity of peripheral artery disease (PAD) participants. 6MWT test included measurement of total distance walked in 6 minutes.
+
+Pharmacodynamic (PD) analysis set included all participants with available PD data, who received any study treatment and experienced no protocol deviations with relevant impact on PD data. Here 'N' (overall number of participants analyzed) signifies number of participants evaluable for this endpoint.
+
+## Area Under the Serum Concentration-time Curve From Time Zero to Infinity (AUCinf)
+
+AUCinf is defined as the area under the serum concentration-time curve from time zero to infinity.
+
+PK analysis set: Participants with at least 1 available valid PK concentration measurement, who received any study treatment and with no protocol deviations that impacted PK data. N (overall number of participants analyzed) = participants evaluable for this outcome measure and 'n' (number analyzed) = participants evaluable at specified time points.
+
+## Area Under the Serum Concentration-time Curve From Time Zero to the Time of the Last Quantifiable Concentration (AUClast)
+
+AUClast is defined as the area under the serum concentration-time curve from time zero to the time of the last quantifiable concentration.
+
+Pharmacokinetic (PK) analysis set included all participants with at least one available valid PK concentration measurement, who received any study treatment and with no protocol deviations that impacted PK data.
+
+## Area Under the Serum Concentration-time Curve From Time Zero to Defined Time Point 't' (AUC[0-t])
+
+AUC(0-t)is defined as the area under the serum concentration-time curve from time zero to time 't' where is a defined time point after administration.
+
+PK analysis set included all participants with at least one available valid PK concentration measurement, who received any study treatment and with no protocol deviations that impacted PK data.
+
+## Area Under the Serum Concentration-time Curve From Time Zero to the End of the Dosing Interval Tau (AUCtau)
+
+AUCtau is defined as the area under the serum concentration-time curve from time zero to the end of the dosing interval tau.
+
+## Observed Maximum Serum Concentration (Cmax) Following Drug Administration
+
+Cmax is defined as the observed maximum serum concentration following drug administration.
+
+PK analysis set included all participants with at least one available valid PK concentration measurement, who received any study treatment and with no protocol deviations that impacted PK data.
+
+## Time to Reach the Maximum Concentration After Drug Administration (Tmax)
+
+Tmax is defined as the time to reach the maximum concentration after drug administration.
+
+PK analysis set included all participants with at least one available valid PK concentration measurement, who received any study treatment and with no protocol deviations that impacted PK data.
+
+## Change From Baseline in Pain-free Walking Distance (PFWD) as Assessed by 6-minute Walk Test at Week 16
+
+PFWD was defined as the distance walked up to the point of onset of claudication symptoms (pain) recorded during the 6MWT and was used to evaluate symptomatic functional capacity of PAD participants. The PFWD was measured as the distance walked up to the time/place where the participant first experiences symptoms typical of their claudication which included pain, cramps, or other discomfort in the buttocks, thighs, calves or feet that occurs during the 6MWT exercise period.
+
+PD analysis set included all participants with available PD data, who received any study treatment and experienced no protocol deviations with relevant impact on PD data. Here 'N' (overall number of participants analyzed) signifies number of participants evaluable for this outcome measure.
+
+## Adverse events
+
+Any sign or symptom that occurs during the study treatment plus the 30 days post treatment.

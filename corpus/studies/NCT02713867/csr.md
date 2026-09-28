@@ -1,0 +1,108 @@
+# Results summary for NCT02713867
+
+## Progression Free Survival Rate (PFSR) at 6 Months
+
+The proportion of participants remaining progression free and surviving at 6 months. Participants who did not progress or die will be censored on the date of their last evaluable tumor assessment. Progression is defined as at least a 20% increase in the sum of diameters of target lesions, taking as reference the smallest sum on study (this includes the baseline sum if that is the smallest on study). In addition to the relative increase of 20%, the sum must also demonstrate an absolute increase of at least 5 mm. Note: the appearance of one or more new lesions is also considered progression.
+
+All Randomized Participants
+
+## Progression Free Survival Rate (PFSR) at 12 Months
+
+The proportion of participants remaining progression free and surviving at 6 months. Participants who did not progress or die will be censored on the date of their last evaluable tumor assessment. Progression is defined as at least a 20% increase in the sum of diameters of target lesions, taking as reference the smallest sum on study (this includes the baseline sum if that is the smallest on study). In addition to the relative increase of 20%, the sum must also demonstrate an absolute increase of at least 5 mm. Note: the appearance of one or more new lesions is also considered progression.
+
+All Randomized Participants
+
+## Progression Free Survival Rate (PFSR) at 24 Months
+
+The proportion of participants remaining progression free and surviving at 6 months. Participants who did not progress or die will be censored on the date of their last evaluable tumor assessment. Progression is defined as at least a 20% increase in the sum of diameters of target lesions, taking as reference the smallest sum on study (this includes the baseline sum if that is the smallest on study). In addition to the relative increase of 20%, the sum must also demonstrate an absolute increase of at least 5 mm. Note: the appearance of one or more new lesions is also considered progression.
+
+All Randomized Participants
+
+## Progression Free Survival Rate (PFSR) by Tumor Histology at 12 Months
+
+The proportion of participants remaining progression free and surviving at 6 months. Participants who did not progress or die will be censored on the date of their last evaluable tumor assessment. Progression is defined as at least a 20% increase in the sum of diameters of target lesions, taking as reference the smallest sum on study (this includes the baseline sum if that is the smallest on study). In addition to the relative increase of 20%, the sum must also demonstrate an absolute increase of at least 5 mm. Note: the appearance of one or more new lesions is also considered progression.
+
+All Randomized Participants
+
+## Progression Free Survival Rate (PFSR) by Response Criteria at 12 Months
+
+The proportion of participants remaining progression free and surviving at 12 months. Participants who did not progress or die will be censored on the date of their last evaluable tumor assessment. Progression is defined as at least a 20% increase in the sum of diameters of target lesions, taking as reference the smallest sum on study. In addition to the relative increase of 20%, the sum must also demonstrate an absolute increase of at least 5 mm.
+
+Complete Response (CR): Disappearance of all target lesions. Any pathological lymph nodes (whether target or non-target) must have reduction in short axis to \< 10 mm.
+
+Partial Response (PR): At least a 30% decrease in the sum of diameters of target lesions, taking as reference the baseline sum diameters.
+
+Stable Disease (SD): Neither sufficient shrinkage from the baseline study to qualify for PR nor sufficient increase to qualify for PD, taking as reference the smallest sum diameters while on study.
+
+All Randomized Participants
+
+## Overall Survival (OS) Rate at 12 Months
+
+The proportion of participants alive at 12 months. OS is defined as time from the date of randomization to the date of death. Participants who did not die by the end of the study will be censored at the last known date alive.
+
+All Randomized Participants with a response at 12 months
+
+## Overall Survival (OS) Rate up to 60 Months
+
+The proportion of participants alive up to 60 months. OS is defined as time from the date of randomization to the date of death. Participants who did not die by the end of the study will be censored at the last known date alive.
+
+All Randomized Participants
+
+## Overall Survival Rate by Histology at 12 Months
+
+The proportion of participants alive at 12 months. OS is defined as time from the date of randomization to the date of death. Participants who did not die by the end of the study will be censored at the last known date alive.
+
+OS rate by histology did not have data collected after 12 months randomization.
+
+All Randomized Participants
+
+## Overall Survival Rate by Response Criteria at 12 Months
+
+The proportion of participants alive at 12 months. OS is defined as time from the date of randomization to the date of death. Participants who did not die by the end of the study will be censored at the last known date alive.
+
+Complete Response (CR): Disappearance of all target lesions. Any pathological lymph nodes (whether target or non-target) must have reduction in short axis to \< 10 mm.
+
+Partial Response (PR): At least a 30% decrease in the sum of diameters of target lesions, taking as reference the baseline sum diameters.
+
+Stable Disease (SD): Neither sufficient shrinkage from the baseline study to qualify for PR nor sufficient increase to qualify for PD, taking as reference the smallest sum diameters while on study.
+
+OS rate by response did not have data collected after 12 months randomization.
+
+All Randomized Participants
+
+## Percentage of Participants With an Adverse Events (AEs)
+
+Percentage of participants with an Adverse Event due to any cause
+
+An Adverse Event (AE) is defined as any new untoward medical occurrence or worsening of a preexisting medical condition in a clinical investigation participant administered study drug and that does not necessarily have a causal relationship with this treatment.
+
+All Treated Participants
+
+## Percentage of Participants With an Serious Adverse Events (SAEs)
+
+Percentage of participants with an Serious Adverse Event due to any cause.
+
+A Serious Adverse Event (SAE) is any untoward medical occurrence that at any dose:
+
+1. results in death
+2. is life-threatening (defined as an event in which the subject was at risk of death at the time of the event; it does not refer to an event which hypothetically might have caused death if it were more severe)
+3. requires inpatient hospitalization or causes prolongation of existing hospitalization
+4. results in persistent or significant disability/incapacity
+5. is a congenital anomaly/birth defect
+6. is an important medical event (defined as a medical event(s) that may not be immediately life-threatening or result in death or hospitalization but, based upon appropriate medical and scientific judgment, may jeopardize the participant or may require intervention \[eg, medical, surgical\] to prevent one of the other serious outcomes listed in the definition above.)
+
+All Treated Participants
+
+## Percentage of Participants With an Adverse Events Leading to Discontinuation (AEsDC)
+
+Percentage of Participants with an Adverse Event leading to discontinuation (AEsDC) due to any cause.
+
+An Adverse Event (AE) is defined as any new untoward medical occurrence or worsening of a preexisting medical condition in a clinical investigation participant administered study drug and that does not necessarily have a causal relationship with this treatment.
+
+All Treated Participants
+
+## Adverse events
+
+The number at Risk for All-Cause Mortality represents all Randomized Participants to study completion.
+
+The number at Risk for Serious Adverse Events and Other (Not Including Serious) Adverse Events represents all participants that received at least 1 dose of study medication" or similar.

@@ -1,0 +1,11 @@
+# Results summary for NCT02879578
+
+## Frequency of Treatment-emergent Adverse Events (TEAEs)
+
+A TEAE is an adverse event not present prior to the initiation of study drug dosing, or is an already present event that worsens either in intensity or frequency following the initiation of study drug dosing.
+
+Safety analysis set, which includes all participants who received at least one dose of study drug and have any postbaseline data.
+
+## Baseline population
+
+Safety analysis set, which includes all participants who received at least one dose of study drug and have any postbaseline data.

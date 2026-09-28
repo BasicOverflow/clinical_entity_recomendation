@@ -1,0 +1,23 @@
+{
+  "nct_id": "NCT02752048",
+  "study_title": "A Randomized Phase IIa Study of TAS-205 in Patients With Duchenne Muscular Dystrophy",
+  "brief_title": "A Phase IIa Study of TAS-205 for Duchenne Muscular Dystrophy",
+  "sponsor": "Taiho Pharmaceutical Co., Ltd.",
+  "study_phase": "PHASE2",
+  "study_status": "COMPLETED",
+  "indication": "Duchenne Muscular Dystrophy",
+  "conditions": [
+    "Duchenne Muscular Dystrophy"
+  ],
+  "subject_type": "PATIENTS",
+  "healthy_volunteers": false,
+  "sex": "MALE",
+  "minimum_age": "5 Years",
+  "maximum_age": null,
+  "allocation": "RANDOMIZED",
+  "blinding": "QUADRUPLE",
+  "design": "PARALLEL",
+  "enrollment": 36,
+  "comparative_study": "Y",
+  "eligibility_criteria": "Inclusion Criteria:\n\n* Able to give an informed consent. If applicable, able to give an informed assent.\n* Phenotypic evidence of DMD.\n* Male and \u22675 years of age.\n* Bodyweight \u22677.5 kg and \\<60 kg.\n* Able to complete the 6MWD test with a distance of at least 75 m.\n* Able to take tablets.\n* If taking oral glucocorticoids no significant change in the total daily or dosing 6 months before enrollment.\n\nExclusion Criteria:\n\n* Any serious drug allergy.\n* A forced vital capacity (FVC) of \\<50% of predicted value.\n* Wearing a respirator continuously (except for the use during sleep).\n* A left ventricular ejection fraction (EF) of \\<40% or fractional shortening (FS) of \\<25% on echocardiogram.\n* Clinically significant cardiac failure and respiratory failure.\n* Ongoing immunosuppressive therapy (other than corticosteroids) .\n* Surgical history or plan for surgery that may affect muscular strength or motor function.\n* Any injury that may affect muscular strength or motor function.\n* With any systemic allergic disease or any chronic inflammatory disease.\n* Previous gene therapy (exon skipping, or stop codon read through therapy), cell-based therapy, or any other investigational agents."
+}

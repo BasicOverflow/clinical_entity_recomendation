@@ -1,0 +1,27 @@
+# Results summary for NCT04246593
+
+## Consumption of Fruits and Vegetables
+
+Change in Fruit \& Vegetable (F\&V) intake (servings/day) at 12 months will be calculated from four 24-hour recalls (2 at baseline and 2 at 12-months) which will be administered over the phone by trained interviewers (in English or Spanish). One recall at each time point will be from a weekday and the other from a weekend day. The 24-hour dietary recalls will be collected using the Nutrition Data Systems for Research (NDSR) computer-based software application developed at the University of Minnesota Nutrition Coordinating Center (NCC); NDSR uses a five pass interview approach with interview prompts in English and Spanish (49). The NCC Food and Nutrient Database serves as the source of food composition information in NDSR (50). When a participant completes their in-person data collection, participants will receive The Food Amounts Booklet to have as a visual reference during the 24-hour recall. This booklet is compatible with the NDSR program.
+
+The food environment and shopping behaviors were significantly impacted by the COVID-19 pandemic in 2020. Many intervention participants did not attend the mobile market. We analyzed the data according to participants' self-reported intervention usage. We combined intervention participants who reported never using the intervention with the Control - Planning (comparison) arm participants, as these participants all did not receive/use the intervention.
+
+## Body Mass Index
+
+BMI will be calculated at baseline and 12 months from weight measured using a Seca 876 digital scale (maximum capacity of 250 kg) and height measured to the nearest 1/8 inch using a Seca stadiometer. Weight and height will be combined to report BMI in kg/m\^2
+
+## Dermal Carotenoids
+
+Dermal Carotenoids will be measured using a finger scan technology called the "Veggie Meter" which relies on pressure mediated Raman Spectroscopy (RS) and is thought to be a valid indicator of changes in skin carotenoids in response to dietary carotenoid consumption. Dermal Carotenoids are measured on a scale of 0 to 800, with 0 representing the absence of dermal carotenoids and 800 representing the maximum possible score for dietary carotenoids. A higher dermal carotenoid score indicates a greater presence of dietary carotenoids, and as such a better outcome. Change between baseline and follow-up scores will be calculated for each group.
+
+## Psychosocial Measures - Self-efficacy
+
+Self-efficacy to purchase, prepare and eat fresh F\&V were measured using a 10-point Likert scale, where 10 indicates easiest (most self-efficacy, better outcome) and 1 indicates hardest (least self-efficacy, worse outcome), applied to a selection of 8 items adapted from a study of shoppers where self-efficacy was shown to be correlated with nutrition behaviors and will serve as a comprehensive assessment of the effect of the educational intervention. The 8 items' scores were summed to create a total self-efficacy score ranging from 8 (least total self-efficacy, worse outcome) to 80 (most total self-efficacy, better outcome) for each participant. The measured outcome is the difference between the mean baseline total self-efficacy score and the mean follow-up total self-efficacy score for each group (change).
+
+## Psychosocial Measures - Benefits (Expectations)
+
+Benefits (expectations) and barriers to eating F\&V were measured with 12 questions using a 4-point Likert scale (1 indicates strongly disagree, 2 indicates disagree, 3 indicates agree, and 4 indicates strongly agree) previously tested in lower-income adults which reflects common benefits/barriers found in the literature. The 12 individual question scores were summed to generate the total barriers score, with a minimum score of 12 (strongly disagree) and a maximum score of 48 (strongly agree). For all scales, a higher number indicates higher perceived barriers and therefore a worse outcome. The lower the score the better the outcome.
+
+## Adverse events
+
+This is a low risk study. We do not anticipate any harm to the participants. Study staff reported adverse events to the PI within 24 hours and the PI reported all adverse events in accordance with the policy of the UB IRB. Because of this low risk status, the data safety monitoring plan (DSMP) focused on close monitoring, along with prompt reporting of excessive adverse events and any serious adverse events to the NIH and to the IRB. Recruitment, drop-out, and missing data will be reviewed.

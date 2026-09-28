@@ -1,0 +1,17 @@
+# Results summary for NCT02761993
+
+## Changes in Pocket Depth (PD) for Those Pockets ≥ 6 mm at Baseline
+
+The primary efficacy endpoint of this study is the change from baseline in the PD at 9 months (Day 270) for those pockets ≥6 mm at baseline.
+
+Intention-to-Treat (ITT) population: All randomized subjects with non-missing data for a given endpoint and time point. If the proportion of subjects (and oral sites) with missing data is ≤5 percent, as we expect it to be, for these analyses we will use the non-missing data and ignore the missingness.
+
+## Changes in Clinical Attachment Level (CAL)
+
+Change in Clinical Attachment Level (CAL) (the measurement of the position of the soft tissue in relation to the cemento-enamel junction (CEJ) that is a fixed point, using probing depth and the distance from the gingival margin to the CEJ.) from baseline in CAL at 9 months (Day 270) in tooth sites with baseline PD ≥ 6mm.
+
+Intention-to-Treat (ITT) population: All randomized subjects with non-missing data for a given endpoint and time point. If the proportion of subjects (and oral sites) with missing data is ≤5 percent, as we expect it to be, for these analyses we will use the non-missing data and ignore the missingness.
+
+## Bleeding on Probing (BOP)
+
+A secondary efficacy endpoint of this study is change from baseline in BOP at 9 months (Day 270) with BOP for each subject calculated as the percentage of tooth sites in the whole mouth with BOP.

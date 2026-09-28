@@ -1,0 +1,11 @@
+Proposed Analyses 
+ Rates of procedure adherence (i.e., watching th e video at least three times daily) will be 
+assessed in order to examine the study’s first question.  The second question will be assessed by 
+examining participants’ rating of acceptability on the AARP with using a mobile phone as a 
+method for self-directed exposure.   
+ There will be 3 (group) x 2 (assessment ) mixed measures analyses of variance 
+(ANOVAs) which will be conducted to assess the first hypothesis regarding treatment 
+effectiveness, with the DFS, and various DBAT measures (i.e., avoidance/escape, cardiac 
+response, and SUDS verbal reports) as dependent variables.  Sensitivity analyses will be 
+conducted for baseline measurements.  In order to examine the second hypothesis, a paired 
+sample t-test assessing the relation of video perspective and scores on the PQ will be conducted.     

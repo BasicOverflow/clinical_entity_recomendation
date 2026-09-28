@@ -1,0 +1,53 @@
+# Results summary for NCT02060721
+
+## Number of Participants With Treatment-emergent Adverse Events (TEAEs)
+
+An adverse event (AE) is any untoward medical occurrence in a participant participating in a clinical study that does not necessarily have a causal relationship with the pharmaceutical/ biological agent under study. TEAEs are those events that started after administration of the first dose and up to safety follow-up visit/end of study, that is, 30 days after the last dose of study medication.
+
+Open-label analysis set (OLAS) included all data from participants who were enrolled into this open-label extension study, from the time they entered this open-label extension study.
+
+## Number of Participants With AEs Leading to Study Drug Discontinuation
+
+Number of participants with AEs leading to study drug discontinuation was reported.
+
+OLAS included all data from participants who were enrolled into this open-label extension study, from the time they entered this open-label extension study.
+
+## Number of Participants With Treatment-emergent Serious Adverse Events (SAEs)
+
+A serious adverse event (SAE) is any untoward medical occurrence that at any dose resulting in any of following outcomes: results in death, is life-threatening, requires inpatient hospitalization or prolongation of existing hospitalization, results in persistent or significant disability/incapacity, is a congenital anomaly/birth defect, is a suspected transmission of any infectious agent via a medicinal product. Treatment-emergent SAEs were those events that started after administration of the first dose and up to safety follow-up visit/end of study, that is, 30 days after the last dose of study medication.
+
+OLAS included all data from participants who were enrolled into this open-label extension study, from the time they entered this open-label extension study.
+
+## Number of Participants With Hemoglobin Abnormalities
+
+Number of participants with hemoglobin abnormalities were reported. It included hemoglobin less than (\<) 80 grams per liter (g/L), hemoglobin \<100 g/L, hemoglobin greater than or equal to (\>=) 80 g/L and \<100 g/L, hemoglobin \<100g/L and a decrease of \>20 g/L from baseline, decrease of \>20 g/L in hemoglobin from baseline, decrease of \>20 g/L and \<=50 g/L in hemoglobin from baseline, and decrease of \>50 g/L in hemoglobin from baseline.
+
+OLAS included all data from participants who were enrolled into this open-label extension study, from the time they entered this open-label extension study.
+
+## Number of Participants With Liver Tests Abnormalities
+
+Number of participants with liver tests abnormalities were reported. It included alanine aminotransferase (ALT) or aspartate aminotransferase (AST): \>=3 x Upper limit of the normal range (ULN), \>=3 and \<5 x ULN, \>=5 ULN, and \>=5 and \<8 x ULN, \>= 8 x ULN, and total bilirubin \>=2 x ULN.
+
+OLAS included all data from participants who were enrolled into this open-label extension study, from the time they entered this open-label extension study.
+
+## Change From Baseline in Blood Pressure at Month 6
+
+Change from baseline in blood pressure at Month 6 (both systolic blood pressure \[SBP\] and diastolic blood pressure \[DBP\]) was reported.
+
+OLAS included all data from participants who were enrolled into this open-label extension study, from the time they entered this open-label extension study. Here, 'N' (number of participants analyzed) signifies participants evaluated for this outcome measure.
+
+## Change From Baseline in Pulse Rate at Month 6
+
+Change from baseline in pulse rate at Month 6 was reported.
+
+OLAS included all data from participants who were enrolled into this open-label extension study, from the time they entered this open-label extension study. Here, 'N' (number of participants analyzed) signifies participants evaluated for this outcome measure.
+
+## Change From Baseline in Body Weight at Month 6
+
+Change from baseline in body weight at Month 6 was reported.
+
+OLAS included all data from participants who were enrolled into this open-label extension study, from the time they entered this open-label extension study. Here, 'N' (number of participants analyzed) signifies participants evaluated for this outcome measure.
+
+## Adverse events
+
+Open-label analysis set (OLAS) included all data from participants who were enrolled into this open-label extension study, from the time they entered this open-label extension study.
